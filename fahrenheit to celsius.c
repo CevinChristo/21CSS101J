@@ -1,5 +1,5 @@
 #include <stdio.h>
-float main() {
+ int main() {
     float farenheit,celcius;
     printf("enter the temprature in farenhiet:");
     scanf("%f",&farenheit);
