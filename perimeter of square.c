@@ -1,5 +1,5 @@
-int main()
-{
+int main(){
+     printf("RA2211042010002\n\n");
 	float side,perimeter;
 	printf("enter side of square: ");
 	scanf("%f",&side);
