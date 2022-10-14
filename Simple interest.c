@@ -1,5 +1,6 @@
 #include <stdio.h>
 int main(){
+printf("RA2211042010002\n\n");
 float principle, time, rate, SI;
 
 printf("Enter principle: ");
