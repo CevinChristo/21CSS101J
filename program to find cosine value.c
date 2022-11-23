@@ -1,7 +1,9 @@
+#include <stdio.h>
 #include <math.h>
 #define PI 3.1416
 #define MAX 180
 int main() {
+  printf(RA2211042010002\n\n);
   int angle;
   float x,y;
   angle = 0;
